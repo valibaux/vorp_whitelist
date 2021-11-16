@@ -2,12 +2,13 @@ Whitelist discord for RedM by Nolosha for vorp
 
 # Configuration
 Config your discord on config.js 
-ClientId : "Your client id"
-ClientSecret : "Your secret key"
-Token : "Your token discord
 
-Guild : "Your Server ID discord"
-Roles : Roles allowed
+- ClientId : "Your client id"
+- ClientSecret : "Your secret key"
+- Token : "Your token discord
+
+- Guild : "Your Server ID discord"
+- Roles : Roles allowed
 
 # Installation 
 
