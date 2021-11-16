@@ -10,7 +10,7 @@ const discordLoginCardTemplate = {
     "body": [
         {
             "type": "TextBlock",
-            "text": "Votre compte Discord n'est pas encore associé au serveur.",
+            "text": "Your Discord account is not yet associated with the server.",
             "wrap": true,
             "horizontalAlignment": "Center",
             "height": "stretch"
@@ -22,7 +22,7 @@ const discordLoginCardTemplate = {
                     "type": "Action.OpenUrl",
                     "url": "",
                     "id": "discordLogin",
-                    "title": "Se connecter avec Discord"
+                    "title": "Connect you to the discord"
                 }
             ]
         },
@@ -31,7 +31,7 @@ const discordLoginCardTemplate = {
             "actions": [
                 {
                     "type": "Action.Submit",
-                    "title": "Se déconnecter",
+                    "title": "Disconnect",
                     "style": "positive"
                 }
             ]
