@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.5",
+    "@ungap/url-search-params": "^0.2.2"
+  },
+  "name": "redm-discord-whitelist",
+  "version": "1.0.0"
+}
