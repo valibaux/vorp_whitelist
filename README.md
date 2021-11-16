@@ -14,7 +14,7 @@ Config your discord on config.js
 - Roles : Roles allowed
 
 # Requirements
-Nothing. 
+Nothing. Just dont rename script, ty.
 
 # Installation 
 
