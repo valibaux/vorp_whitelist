@@ -10,6 +10,9 @@ Config your discord on config.js
 - Guild : "Your Server ID discord"
 - Roles : Roles allowed
 
+# Requirements
+Nothing. 
+
 # Installation 
 
 - How to install (Remember to download the lastest releases)
